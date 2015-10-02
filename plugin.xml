@@ -32,7 +32,7 @@
     <!-- these give a lot of peeps trouble, esp on build.phonegap.com, so not using them -->
     <!--<framework src="com.google.android.gms:play-services-plus:+" />-->
     <!--<framework src="com.google.android.gms:play-services-identity:+" />-->
-    <dependency id="cordova-plugin-googleplayservices" />
+    <!--<dependency id="cordova-plugin-googleplayservices" />-->
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="GooglePlus">
